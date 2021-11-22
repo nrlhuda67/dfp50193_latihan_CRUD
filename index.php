@@ -14,7 +14,7 @@ require 'conn.php';
 <body>
 <a href="tambah.php">Add New</a>
     <table border="1" cellpadding="8" cellspacing="0">
-        <tr bgcolor="#ffd700">
+        <tr bgcolor="#E6E6FA">
             <th>Bil</th>
             <th>Nama</th>
             <th>No K/P</th>
